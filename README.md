@@ -1,16 +1,23 @@
 Fernanda Souza. 
 
-👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa. 
-Futura Dev. Equidade, não igualdade. Boa ouvinte e terapeuta de boteco. (Ela/De
+👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa.
+Futura Dev. 
+Equidade, não igualdade. 
+Podcaster: https://anchor.fm/criando-monstrinhos/
+Boa ouvinte e terapeuta de boteco. 
 
-- 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos
+- 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronomes: Ela/Dela
 - 👥 Redes Sociais: @leitoraincomum
 --------------------------------------------------------------------------
 👩🏾‍ Balzaquian, black girl, fat, taurine, nerd, mother, nostalgic, intense and anxious.
-Future Dev. Equity, not equality. Good listener and bar therapist.
+Future Dev. 
+Equity, not equality. 
+Podcaster: https://anchor.fm/criando-monstrinhos/
+Good listener and bar therapist.
 
-- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos
+- 🇧🇷 - Brasilian
+- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronouns: She/Her
 - 👥 Social networks: @leitoraincomum
 
