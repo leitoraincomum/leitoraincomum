@@ -1,8 +1,8 @@
 Fernanda Souza. 
 
-👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa. <p>
-Futura Dev. 
-Equidade, não igualdade. 
+👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa. 
+* Futura Dev. 
+* *Equidade, não igualdade.* 
 Podcaster: https://anchor.fm/criando-monstrinhos/
 Boa ouvinte e terapeuta de boteco. 
 
