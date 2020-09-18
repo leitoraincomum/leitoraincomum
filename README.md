@@ -4,7 +4,7 @@ Fernanda Souza.
 * Futura Dev. 
 * *Equidade, não igualdade.* 
 * Podcaster: https://anchor.fm/criando-monstrinhos/
-* Boa ouvinte e terapeuta de boteco. 
+* Leio: códigos, livros e desabafos.
 
 - 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronomes: Ela/Dela
@@ -14,10 +14,9 @@ Fernanda Souza.
 * Future Dev. 
 * *Equity, not equality.* 
 * Podcaster: https://anchor.fm/criando-monstrinhos/
-* Good listener and bar therapist.
+* I read: codes, books and outbursts.
 
-- 🇧🇷 - Brasilian
-- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP
+- 🇧🇷 - Brasilian- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronouns: She/Her
 - 👥 Social networks: @leitoraincomum
 
