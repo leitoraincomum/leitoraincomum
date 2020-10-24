@@ -2,6 +2,7 @@ Fernanda Souza.
 
 👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa. 
 * Futura Dev. 
+* Conhecimento nas linguagens: C++, C#, JavaScript, CSS, Python, JAVA e Kotlin.
 * *Equidade, não igualdade.* 
 * Podcaster: https://anchor.fm/criando-monstrinhos/
 * Leio: códigos, livros e desabafos.
@@ -12,6 +13,7 @@ Fernanda Souza.
 --------------------------------------------------------------------------
 👩🏾‍ Balzaquian, black girl, fat, taurine, nerd, mother, nostalgic, intense and anxious.
 * Future Dev. 
+* Knowledge in languages: C++, C#, JavaScript, CSS, Python, JAVA e Kotlin.
 * *Equity, not equality.* 
 * Podcaster: https://anchor.fm/criando-monstrinhos/
 * I read: codes, books and outbursts.
