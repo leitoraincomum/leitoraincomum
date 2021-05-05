@@ -28,7 +28,7 @@
   </a>
   <a href="http://twitter.com/leitoraincomum">
     <img src="https://img.shields.io/twitter/follow/leitoraincomum?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>>
+  </a>
 </p>
 
 **GitHub Stats / Estatísticas GitHub**
