@@ -28,9 +28,12 @@
     <img src="https://img.shields.io/twitter/follow/leitoraincomum?label=Twitter&logo=twitter&style=for-the-badge" />
   </a>
 </p>
- 
+
+<details align="left">
+  <summary><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+
 **GitHub Stats / Estatísticas GitHub**
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=leitoraincomum&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/leitoraincomum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlineBastos&layout=compact&theme=gruvbox&langs_count=10)](https://github.com/leitoraincomum/github-readme-stats)</details>
 ![](https://komarev.com/ghpvc/?username=leitoraincomum&color=blue&style=flat)
