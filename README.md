@@ -8,7 +8,6 @@
 
 - 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronomes: Ela/Dela
-- 👥 [**Redes Sociais**](https://linklist.bio/leitoraincomum)
 --------------------------------------------------------------------------
 👩🏾‍ Balzaquian, black girl, fat, taurine, nerd, mother, nostalgic, intense and anxious.
 * Knowledge in languages: C++, C#, JavaScript, CSS, Python, JAVA e Kotlin.
@@ -18,7 +17,6 @@
 
 - 🇧🇷 - Brasilian- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP
 - 😄 Pronouns: She/Her
-- 👥 [**Social networks**](https://linklist.bio/leitoraincomum)
 --------------------------------------------------------------------------
 <p align="center">
   <a href="https://github.com/leitoraincomum?tab=followers">
@@ -29,8 +27,13 @@
   </a>
 </p>
 
+<section><details align="left">
+  <summary><b>Redes Sociais / Social Networks...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/like.gif?raw=true" width="30px"> </summary>
+👥 https://linklist.bio/leitoraincomum
+</section>
+
 <details align="left">
-  <summary><b>GitHub Stats...</b></i> <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> </summary>
+  <summary><b>GitHub Stats...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/github.gif?raw=true" width="30px"> </summary>
 
 **GitHub Stats / Estatísticas GitHub**
 
