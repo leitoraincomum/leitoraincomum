@@ -6,7 +6,7 @@
 * Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * Leio: códigos, livros e desabafos.
 
-- 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP
+- 👩🏾‍🎓 Estudando Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP (5 de 6 semestres - 2020-2022)
 - 😄 Pronomes: Ela/Dela
 --------------------------------------------------------------------------
 <p align="center">
@@ -26,7 +26,7 @@
 * Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * I read: codes, books and outbursts.
 
-- 🇧🇷 - Brasilian- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP
+- 🇧🇷 - Brasilian- 👩🏾‍🎓 I'm student Analysis and Systems Development on FATEC Ferraz de Vasconcelos/SP (5 of 6 semesters - 2020-2022)
 - 😄 Pronouns: She/Her
   
 </section>
