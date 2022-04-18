@@ -1,7 +1,6 @@
 **Fernanda Souza** 
 
 👩🏾‍ Balzaquiana, negra, gorda, taurina, nerd, mãe, nostálgica, intensa e ansiosa. 
-* Conhecimento nas linguagens: C++, C#, JavaScript, CSS, Python, JAVA, Kotlin, Dart e Flutter.
 * *Equidade, não igualdade.* 
 * Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * Leio: códigos, livros e desabafos.
@@ -21,7 +20,6 @@
   <summary><b> About me (EN version)...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/like.gif?raw=true" width="30px"> </summary>
 
 👩🏾‍ Balzaquian, black girl, fat, taurine, nerd, mother, nostalgic, intense and anxious.
-* Knowledge in languages: C++, C#, JavaScript, CSS, Python, JAVA, Kotlin, Dart e Flutter.
 * *Equity, not equality.* 
 * Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * I read: codes, books and outbursts.
