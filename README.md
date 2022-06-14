@@ -17,7 +17,7 @@
   </a>
 </p>
 <section><details align="left">
-  <summary><b> About me (EN version)...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/like.gif?raw=true" width="30px"> </summary>
+  <summary><b> About me (EN version)...</b></i> </summary>
 
 👩🏾‍ Balzaquian, black girl, fat, taurine, nerd, mother, nostalgic, intense and anxious.
 * *Equity, not equality.* 
@@ -29,12 +29,12 @@
   
 </section>
 <section><details align="left">
-  <summary><b>Redes Sociais / Social Networks...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/like.gif?raw=true" width="30px"> </summary>
+  <summary><b>Redes Sociais / Social Networks...</b></i> </summary>
 👥 https://linklist.bio/leitoraincomum
 </section>
 <section>
 <details align="left">
-  <summary><b>GitHub Stats...</b></i> <img src="https://github.com/leitoraincomum/leitoraincomum/blob/master/github.gif?raw=true" width="30px"> </summary>
+  <summary><b>GitHub Stats...</b></i> </summary>
 
 **GitHub Stats / Estatísticas GitHub**
 
