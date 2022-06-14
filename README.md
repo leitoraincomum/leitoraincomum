@@ -9,12 +9,9 @@
 - 😄 Pronomes: Ela/Dela
 --------------------------------------------------------------------------
 <p align="center">
-  <a href="https://github.com/leitoraincomum?tab=followers">
-    <img src="https://img.shields.io/github/followers/leitoraincomum?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/leitoraincomum">
-    <img src="https://img.shields.io/twitter/follow/leitoraincomum?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/leitoraincomum?style=social">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/leitoraincomum?label=github&style=social">
+<img alt="Twitch Status" src="https://img.shields.io/twitch/status/leitoraincomum?style=social">  
 </p>
 <section><details align="left">
   <summary><b> About me (EN version)...</b></i> </summary>
