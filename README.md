@@ -6,7 +6,7 @@
 * Leio: códigos, livros e desabafos.
 
 - 👩🏾‍🎓 Graduada: Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP (2020-2023)
-- 👩🏾‍🎓 Estudando: Gestão de Tecnologia da Informação na FATEC Itaquaquecetuba/SP (2023)
+- 👩🏾‍🎓 Graduada: Gestão de Tecnologia da Informação na FATEC Itaquaquecetuba/SP (2016-2019 | 2023)
 --------------------------------------------------------------------------
 <section><details align="left">
   <summary><b> About me (EN version)...</b></i> </summary>
@@ -17,7 +17,7 @@
 * I read: codes, books and outbursts.
 
 - 👩🏾‍🎓 I'm graduated Analysis and Systems Development from FATEC Ferraz de Vasconcelos/SP (2020-2023)
-- 👩🏾‍🎓 I'm student Management Information Technology from FATEC Itaquaquecetuba/SP (2023)
+- 👩🏾‍🎓 I'm graduated Management Information Technology from FATEC Itaquaquecetuba/SP (2016-2019 | 2023)
 
 <p align="center">
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/leitoraincomum?style=social">
