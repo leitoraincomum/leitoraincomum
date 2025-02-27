@@ -7,6 +7,7 @@
 
 - 👩🏾‍🎓 Graduada: Análise e Desenvolvimento de Sistemas na FATEC Ferraz de Vasconcelos/SP (2020-2023)
 - 👩🏾‍🎓 Graduada: Gestão de Tecnologia da Informação na FATEC Itaquaquecetuba/SP (2016-2019 | 2023)
+- 👩🏾‍🎓 Especialização Técnica em Gestão de Projetos na ETEC Itaquera II (2024)
 - 👩🏾‍🎓 Pós Graduanda: Logística e Operações no IFSP Suzano/SP (2025-2026)
 --------------------------------------------------------------------------
 <section><details align="left">
@@ -17,8 +18,9 @@
 * Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * I read: codes, books and outbursts.
 
-- 👩🏾‍🎓 I'm graduated Analysis and Systems Development at FATEC Ferraz de Vasconcelos/SP (2020-2023)
-- 👩🏾‍🎓 I'm graduated Management Information Technology at FATEC Itaquaquecetuba/SP (2016-2019 | 2023)
+- 👩🏾‍🎓 Graduated Analysis and Systems Development at FATEC Ferraz de Vasconcelos/SP (2020-2023)
+- 👩🏾‍🎓 Graduated Management Information Technology at FATEC Itaquaquecetuba/SP (2016-2019 | 2023)
+- 👩🏾‍🎓 Technical Specialization in Project Management at ETEC Itaquera II (2024)
 - 👩🏾‍🎓 Postgraduate Student: Logistics and Operations at IFSP Suzano/SP (2025-2026)
 
 <p align="center">
