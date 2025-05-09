@@ -1,8 +1,8 @@
 ![Banner com informações](banner.png)
 👷🏾‍♀️🎲 Engenheira de Dados. 
 * *Equidade, não igualdade.* 
-*🎙 Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
-*📚 Leio: códigos, livros e desabafos.
+* Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
+* Leio: códigos, livros e desabafos.
 ---
 <section><details align="left">
   <summary><b> About me (EN version)...</b></i> </summary>
