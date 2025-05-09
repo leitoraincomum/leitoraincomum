@@ -23,7 +23,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leitoraincomum&layout=compact&theme=synthwave&langs_count=10&line_height=24.5)](https://github.com/leitoraincomum/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=leitoraincomum&color=blue&style=flat)
-![Snake animation](https://github.com/leitoraincomum/leitoraincomum/blob/output/github-contribution-grid-snake.svg)
 </details>
 
 </section>
