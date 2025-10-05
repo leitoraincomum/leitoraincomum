@@ -1,7 +1,7 @@
 ![Banner com informações](banner.png)
 👷🏾‍♀️🎲 Engenheira de Dados. 
 * *Equidade, não igualdade.* 
-* Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
+* Host Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * Leio: códigos, livros e desabafos.
 ---
 <section><details align="left">
@@ -9,7 +9,7 @@
 
 👷🏾‍♀️🎲‍ Data Engineer.
 * *Equity, not equality.* 
-* Hoster Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
+* Host Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
 * I read: codes, books and outbursts.
   
 </section>
