@@ -1,4 +1,3 @@
-![Banner com informações](new_banner.png)
 👷🏾‍♀️🎲 Engenheira de Dados. 
 * *Equidade, não igualdade.* 
 * Host Podcast: [**Criando Monstrinhos**](https://anchor.fm/criando-monstrinhos/)
